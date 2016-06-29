@@ -1,0 +1,114 @@
+﻿body {
+    background-image: url('/img/mavi.jpg');
+    background-attachment: fixed;
+}
+ .ortalama{
+     margin-left:480px;
+     margin-top:150px;
+     width:110%;
+           }
+.baslik {
+    margin-left: 20px;
+    font-size: 50px;
+}
+.baslik1 {
+    font-size: 50px;
+    font-weight:bold;
+}
+
+.textbox {
+    width: 20%;
+    margin-left: 18px;
+}
+
+.textboxLabel {
+    margin-left: 30px;
+    font-size: 18px;
+    font-weight:500;
+}
+.textboxLabelgrs {
+    margin-left: 30px;
+    font-size: 18px;
+    font-weight:500;
+    font-weight:bold;
+}
+.textboxLabel1 {
+    margin-left:5px;
+    font-size: 16px;
+    font-weight:500;
+}
+
+.dropdowlist {
+    margin-left: 5px;
+    font-size: 15px;
+}
+.dropdowlist2 {
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+
+.buton {
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+.gridview {
+    font-size: 15px;
+    font-weight: 500;
+   
+}
+
+.Grid {
+    background-color: #fff;
+    margin: 5px 0 10px 0;
+    border: solid 1px #525252;
+    border-collapse: collapse;
+    font-family: Calibri;
+    color: #474747;
+}
+
+    .Grid td {
+        padding: 2px;
+        border: solid 1px #c1c1c1;
+    }
+
+    .Grid th {
+        padding: 4px 2px;
+        color: black;
+        background: #363670 url(img/mavi.jpg) repeat-x top;
+        border-left: solid 1px #525252;
+        font-size: 0.9em;
+    }
+
+    .Grid .alt {
+        background: #fcfcfc url(img/grid-alt.png) repeat-x top;
+    }
+
+    .Grid .pgr {
+        background: #363670 url(img/grid-pgr.png) repeat-x top;
+    }
+
+        .Grid .pgr table {
+            margin: 3px 0;
+        }
+
+        .Grid .pgr td {
+            border-width: 0;
+            padding: 0 6px;
+            border-left: solid 1px #666;
+            font-weight: bold;
+            color: #fff;
+            line-height: 12px;
+        }
+
+        .Grid .pgr a {
+            color: Gray;
+            text-decoration: none;
+        }
+
+            .Grid .pgr a:hover {
+                color: #000;
+                text-decoration: none;
+            }
+
